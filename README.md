@@ -24,7 +24,7 @@ Docker: Descarga e instala Docker Desktop haciendo click [aquí](https://www.doc
 Node.js: Descarga e instala Node.js haciendo click [aquí](https://nodejs.org) según tu sistema operativo.
 
 ### Paso 4: Levantar la Base de Datos con Docker Compose
-Una vez que tengas Docker instalado, posiciona la terminal en la raíz del proyecto y ejecuta el siguiente comando para levantar la base de datos con Docker Compose:
+Una vez que tengas Docker instalado y funcionando, asegúrate de tener el Docker daemon en ejecución. Para ello, abre la aplicación de Docker en tu sistema antes de ejecutar el siguiente comando en la terminal, asegurándote de estar posicionado en la raíz del proyecto. Luego, ejecuta el comando siguiente para levantar la base de datos con Docker Compose:
 
 ```bash
 cd programming_challenge
