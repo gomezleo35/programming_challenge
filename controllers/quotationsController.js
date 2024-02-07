@@ -1,7 +1,8 @@
 const axios = require('axios');
 const quotationsModel = require('../models/quotationsModel');
+require('dotenv').config();
 
-const urlProveedor = 'https://ticker.transfero.com/quote/ars/4bb43';
+const urlProveedor =  process.env.EXTERNAL_API_URL;
 
 /**
  * Obtiene las cotizaciones del dólar desde un proveedor externo.
