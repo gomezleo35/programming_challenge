@@ -39,7 +39,7 @@ const getQuote = async () => {
  * Almacena la cotización de compra y venta del dólar en la base de datos.
  * @async
  * @param {Object} dbCredentials - Credenciales de conexión a la base de datos.
- * @param {string} dbCredentials.host - Host de la base de datos.
+ * @param {number} dbCredentials.host - Host de la base de datos.
  * @param {string} dbCredentials.user - Usuario de la base de datos.
  * @param {string} dbCredentials.password - Contraseña de la base de datos.
  * @param {string} dbCredentials.database - Nombre de la base de datos.

@@ -14,7 +14,7 @@ const createTableQuery = `
  * Inicializa la conexión a la base de datos y crea la tabla de cotizaciones si no existe.
  * @async
  * @param {Object} dbCredentials - Credenciales de conexión a la base de datos.
- * @param {string} dbCredentials.host - Host de la base de datos.
+ * @param {number} dbCredentials.host - Host de la base de datos.
  * @param {string} dbCredentials.user - Usuario de la base de datos.
  * @param {string} dbCredentials.password - Contraseña de la base de datos.
  * @param {string} dbCredentials.database - Nombre de la base de datos.
@@ -39,7 +39,7 @@ const initializeDatabase = async (dbCredentials) => {
  * Inserta una cotización en la base de datos.
  * @async
  * @param {Object} dbCredentials - Credenciales de conexión a la base de datos.
- * @param {string} dbCredentials.host - Host de la base de datos.
+ * @param {number} dbCredentials.host - Host de la base de datos.
  * @param {string} dbCredentials.user - Usuario de la base de datos.
  * @param {string} dbCredentials.password - Contraseña de la base de datos.
  * @param {string} dbCredentials.database - Nombre de la base de datos.
