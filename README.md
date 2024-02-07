@@ -58,7 +58,7 @@ npm test
 ```
 
 ### Nota Importante
-Si no tienes las herramientas necesarias para clonar el repositorio, puedes descargar el proyecto como un archivo ZIP desde este enlace.
+Si no tienes las herramientas necesarias para clonar el repositorio, puedes descargar el proyecto como un archivo ZIP desde este [enlace](https://github.com/gomezleo35/programming_challenge/archive/refs/heads/main.zip).
 
 
 
