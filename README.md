@@ -39,16 +39,13 @@ Ahora, instala las dependencias del proyecto utilizando npm o yarn. Ejecuta uno 
 npm install
 ```
 
-**Utilizando yarn**
-```yarn
-yarn install
-```
 ### Paso 6: Ejecutar la Aplicación Node.js
 Una vez que todas las dependencias estén instaladas, puedes ejecutar la aplicación Node.js con el siguiente comando:
 
 ```bash
 npm start
 ```
+
 Los resultados y mensajes generados por la aplicación se mostrarán en la misma consola donde se ejecutó el comando npm start. Asegúrate de revisar la consola para cualquier mensaje de salida o error mientras la aplicación se esté ejecutando.
 
 ¡Listo! Ahora deberías poder acceder y utilizar nuestra aplicación sin problemas.
