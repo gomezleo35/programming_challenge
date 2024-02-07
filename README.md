@@ -15,7 +15,7 @@ Una vez que tengas Git instalado, sigue estos pasos para clonar nuestro reposito
 
 Desde la consola bash recien instalada, en una carpeta ejecuta el siguiente comando:
 ```bash
-git clone https://github.com/gomezleo35/challenge_node.git
+git clone https://github.com/gomezleo35/programming_challenge.git
 ```
 ### Paso 3: Descargar e Instalar Docker y Node.js
 Si aún no tienes Docker y Node.js instalados en tu sistema, sigue estos pasos para descargarlos e instalarlos:
